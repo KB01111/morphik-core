@@ -99,7 +99,7 @@ GPUtil==1.4.0
 greenlet==3.1.1
 grpcio==1.65.4
 grpcio-status==1.65.4
-h11==0.14.0
+h11==0.16.0
 h2==4.2.0
 hiredis==3.1.0
 hpack==4.1.0
@@ -347,7 +347,7 @@ tld==0.13
 tokenizers==0.21.1
 toml==0.10.2
 tomli==2.2.1
-torch==2.6.0
+torch==2.7.1
 torchaudio==2.6.0
 torchvision==0.21.0
 tornado==6.4.1
